@@ -6,4 +6,4 @@
 
 ![SAAS Landing Page](./thumbnail.png)
 
-### [Click here]() to see the deployed website.
+### [Click here](https://saas-landing-page-melonlobo.vercel.app) to see the deployed website.
